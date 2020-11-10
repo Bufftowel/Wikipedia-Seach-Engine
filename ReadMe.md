@@ -1,1 +1,1 @@
-# Wikipedia Seach Engine
+# Wikipedia Search Engine
