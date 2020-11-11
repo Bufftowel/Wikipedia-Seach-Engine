@@ -236,7 +236,7 @@ def main():
     t2 = time.time()        # Timing Code
     total = t2 - t1
     print("Index Generation Completed!")
-    print("Time Taken :", str(math.floor(total / 3600)) + " hours " + str(math.floor(total / 60)) + " minutes " + str(math.floor(total % 60)) + " secs")
+    print("Time Taken :", str(math.floor(total / 3600)) + " hours " + str(math.floor((total % 3600) / 60)) + " minutes " + str(math.floor(total % 60)) + " secs")
     print("In seconds : ", math.floor(total))
     print("Records Parsed : ", doc_cnt)
 
