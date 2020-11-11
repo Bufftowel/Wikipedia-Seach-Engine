@@ -16,4 +16,4 @@ A Search Engine that is designed based on Block sort based indexing. It uses TF-
    To use tags simply put the corresponding tag before your query, e.g. `Enter your query: -t <your-query>`.
 
    ## Query Example:
-   ![Query Example](https://github.com/Bufftowel/Wikipedia-Search-Engine/master/src/wikipedia_query_example.png)
+   ![Query Example](https://github.com/Bufftowel/Wikipedia-Search-Engine/blob/master/src/wikipedia_query_example.png)
